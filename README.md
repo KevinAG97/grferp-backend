@@ -1,10 +1,25 @@
 
 # 💻📱 Sistema de Gestão Empresarial (ERP)
 
-Neste curso mergulhamos a fundo na construção de um Sistema de Gestão Empresarial completo utilizando tecnologias de última geração: ReactJS e Django Rest Framework.
-
-
 ## ⛏️ Instalação
+
+Criação da venv
+
+```bash
+  py -m venv venv
+```
+
+Ativando a venv
+
+```bash
+  venv\Scripts\activate
+```
+
+Instalando as dependências
+
+```bash
+  pip install -r requirements.txt
+```
 
 Execute o projeto com Python
 
